@@ -4,8 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="keywords" content="Indian, Society, St. George, Sudents', Toronto, University, UofT, campus"/>
+    <meta name="description" content="Indian Students' Society (ISS) at The University of Toronto St. George campus"/>
+    <meta name="author" content="Venkatesh Nandakumar">
     <link rel="shortcut icon" href="docs-assets/ico/favicon.png">
 
     <title>Carousel Template for Bootstrap</title>
@@ -24,12 +25,11 @@
 
     <!-- Custom styles for this template -->
     <link href="carousel.css" rel="stylesheet">
+    <link href="offcanvas.css" rel="stylesheet">
   </head>
 <!-- NAVBAR
 ================================================== -->
   <body>
-    <div class="navbar-wrapper">
-      <div class="container">
 
         <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
           <div class="container">
@@ -40,36 +40,50 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Project name</a>
+              <a class="navbar-brand" href="#">Indian Students' Society, Univ. of Toronto</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
+                    <li><a href="#">Culture Night 2013</a></li>
+                    <li><a href="#">Khel Night 2013</a></li>
+                    <li><a href="#">ISS Mixer 2013</a></li>
                     <li class="divider"></li>
-                    <li class="dropdown-header">Nav header</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
+                    <li class="dropdown-header">Past Events</li>
+                    <li><a href="#">Dil Se 2013</a></li>
                   </ul>
                 </li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Sponsorship</a></li>
+                    <li><a href="#">Newsletters</a></li>
+                    <li><a href="#">Video Logs</a></li>
+                  </ul>
+                </li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#contact">About Us</a></li>
               </ul>
             </div>
           </div>
         </div>
 
-      </div>
-    </div>
 
 
     <!-- Carousel
     ================================================== -->
+
+    <div class="container">
+
+      <div class="row offcanvas row-offcanvas-right">
+
+        <div class="col-xs-12 col-sm-9">
+          <p class="pull-right visible-xs">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+          </p>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
@@ -79,32 +93,29 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:First slide" alt="First slide">
+          <img src="img/first.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+              <h1>India &amp; University of Toronto Your connecting point</h1>
             </div>
           </div>
         </div>
         <div class="item">
-          <img data-src="holder.js/900x500/auto/#666:#6a6a6a/text:Second slide" alt="Second slide">
+          <img src="img/fourth.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              <h1>Dil Se! 2013</h1>
+              <p>Delicious Desi-food served hot!</p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Third slide" alt="Third slide">
+          <img src="img/third.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+              <h1>TBR culture night rangoli</h1>
+              <p>I really don't know latin. Whatever.</p>
+              <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
             </div>
           </div>
         </div>
@@ -112,6 +123,22 @@
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
     </div><!-- /.carousel -->
+</div>
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+          <div class="list-group">
+            <a href="#" class="list-group-item active">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+          </div>
+        </div><!--/span-->
+    </div>
 
 
 
