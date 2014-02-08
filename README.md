@@ -5,6 +5,9 @@ google analytics.
 2014 copyright bottom
 sports page.
 someday, move fb pics to more permanent flickr pics.
+Delete wix page
+update all places new website.
+FB friendly og tags.
 
 So, we have feature complete on the ISS Website. By that I mean, it's technically all done, it's only blocked by content and final
 input from you guys.
