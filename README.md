@@ -1,13 +1,10 @@
 Min css and js files
 Use cdf?
 collect and compress css files.
-google analytics.
-2014 copyright bottom
 sports page.
 someday, move fb pics to more permanent flickr pics.
 Delete wix page
 update all places new website.
-FB friendly og tags.
 
 So, we have feature complete on the ISS Website. By that I mean, it's technically all done, it's only blocked by content and final
 input from you guys.
@@ -21,7 +18,6 @@ Things I need:
 7. @Prashanti: Content for http://issuoft.ca/republicday2014.html Content for http://issuoft.ca/republicday2013.html
 8. @Shruti/@Hari: Can you probably talk to TKRE and get a 'testimonial' of sorts which can be linked from the TKRE column in http://issuoft.ca/sponsorship.html
 9. @Shailin, @Bhuvan, @Sanchit, @Yash, @Kohli: Go through all web pages and see what should be improved!! Each and every page/link.
-10. Me: http://issuoft.ca/index.html side links and http://issuoft.ca/culturenight2013.html - no volume, final check tbd, tbr,
-    readme, new links on navbar.
+10. Me: http://issuoft.ca/index.html side links and http://issuoft.ca/culturenight2013.html - no volume, final check tbd, tbr, readme
 
 Also, deadline: Monday 7am. We'll go live soon. The old website will be deleted (if possible)
