@@ -1,8 +1,10 @@
 Min css and js files
-Use cdf?
 collect and compress css files.
-sports page.
-someday, move fb pics to more permanent flickr pics.
+Someday:
+    sports page.
+    Dance Page.
+    move fb pics to more permanent flickr pics.
+    Use cdn?
 update all places new website.
 
 So, we have feature complete on the ISS Website. By that I mean, it's technically all done, it's only blocked by content and final input from you guys.
