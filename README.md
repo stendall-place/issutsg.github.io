@@ -1,5 +1,3 @@
-Min css and js files
-collect and compress css files.
 Someday:
     sports page.
     Dance Page.
@@ -17,7 +15,6 @@ Things I need:
 7. @Prashanti: Content for http://issuoft.ca/republicday2014.html Content for http://issuoft.ca/republicday2013.html
 8. @Shruti/@Hari: Can you probably talk to TKRE and get a 'testimonial' of sorts which can be linked from the TKRE column in http://issuoft.ca/sponsorship.html
 9. @Shailin, @Bhuvan, @Sanchit, @Yash, @Kohli: Go through all web pages and see what should be improved!! Each and every page/link.
-10. Me: http://issuoft.ca/culturenight2013.html - no volume, final check tbd, tbr, readme, prospective students images, flickr
-    online presence
+10. Me: http://issuoft.ca/culturenight2013.html - no volume, final check tbd, tbr, readme, prospective students images
 
 Also, deadline: Monday 7am. We'll go live soon. The old website will be deleted (if possible)
