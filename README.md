@@ -8,6 +8,7 @@ Someday
   * move fb pics to more permanent flickr pics.
   * Use cdn?
   * Use all.css somehow
+  * Why is twitter at bottom not being displayed??
 
 Suggestions
 -----------
