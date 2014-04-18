@@ -9,6 +9,8 @@ Someday
   * Use cdn?
   * Use all.css somehow
   * Why is twitter at bottom not being displayed??
+  * More details about housing
+  * All emails change to issuoft.ca domain
 
 Suggestions
 -----------
